@@ -13,6 +13,7 @@
     "hoek": "5.0.0",
     "string": "^3.3.3",
     "react": "16.8.4",
+    "http-request": "0.6.0",
     "ws": "2.0.0",
     "ecstatic": "4.1.4",
     "@storybook/react": "^6.2.9",
