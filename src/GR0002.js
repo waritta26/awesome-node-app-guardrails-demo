@@ -5,5 +5,5 @@ require('./current_file').file(__filename);
 * Unsafe Regular Expression (new RegExp)
 */
 
-var newUnsafeRegex = new RegExp('(x+x+)+y');
+// var newUnsafeRegex = new RegExp('(x+x+)+y');
 
